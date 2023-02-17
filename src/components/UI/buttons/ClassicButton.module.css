@@ -1,0 +1,15 @@
+.clBtn {
+    padding: 10px;
+    white-space: nowrap;
+    word-wrap: none;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: transparent;
+    transition: .4s;
+}
+
+.clBtn:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
